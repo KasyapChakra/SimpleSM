@@ -1,0 +1,26 @@
+{
+   "name": "Final Project",
+   "description": "Final Project G26",
+   "version": "0.0.1",
+   "scripts": {
+      "start": "node app.js"
+   },
+   "dependencies": {
+      "async": "*",
+      "aws-sdk": "^2.1261.0",
+      "bootstrap": "^5.2.3",
+      "crypto-js": "^4.1.1",
+      "ejs": "^3.1.8",
+      "export": "^0.1.337",
+      "express": "*",
+      "express-session": "^1.17.3",
+      "http": "0.0.1-security",
+      "jquery-ui": "^1.13.2",
+      "lru-cache": "*",
+      "mdb-ui-kit": "^6.0.1",
+      "socket.io": "^4.5.4",
+      "stemmer": "==1.0.5",
+      "uuid": "^9.0.0",
+      "vis-network": "^9.1.2"
+   }
+}
